@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # User Defined
-api_keys.py
+config.py
 __pycache__
 .ipynb_checkpoints
+__pycache__
